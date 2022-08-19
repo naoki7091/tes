@@ -1,0 +1,58 @@
+/* self intoroduction */
+.main_2{
+    background-color:#FFF;
+    width: 80%;
+    height: 110vh;
+    margin-left: 10%;
+}
+
+.intoro{
+    border: 5px double rgb(43, 140, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 5%;
+    padding-top: 3%;
+    font-size: 120%;
+    width: 90%;
+    float: left;
+}
+.intoro_2{
+    border: 1px solid rgb(43, 140, 219);
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 110%;
+    float: left;
+    width: 40%;
+}
+.intoro_3{
+    border: 1px solid rgb(43, 140, 219);
+    text-align: center;
+    margin: 3% 5% 0% 10%;
+    font-size: 110%;
+    float: left;
+    width: 30%;
+    height: 30%;
+    border-radius: 50%;
+}
+.intoro_3 li{
+    margin-top: 30%;
+}
+.intoro li,.intoro_2 li,.intoro_3{
+    list-style: none;
+}
+#self{
+background-color: #c1e0ff;
+}
+h1{
+    text-align: center;
+    margin: 0% 30% 0% 30%;
+    background: linear-gradient(transparent 80%, #6ba7e4 80%);
+    font-weight: bold; 
+    margin-bottom: 2%;
+}
+#pic{   
+    margin: 0% 0% 0% 5%;
+    float: left;
+    width: 95%;
+}
