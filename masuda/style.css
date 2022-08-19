@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+body {
+  text-align: center;
+  color: rgb(254, 47, 47);
+  border: rgb(96, 66, 19) solid;
+  background-color: blanchedalmond;
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  list-style: none;
+}
+li:nth-child(2) {
+  margin: 0 10px;
+}
+#rounded img {
+  border-radius: 5px;
+}
