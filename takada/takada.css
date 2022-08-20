@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+div {
+  border: double 1px black;
+}
+div {
+  background-color: lightblue;
+}
+h1 {
+  width: 300px;
+  border-bottom: double 3px red;
+}
